@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Utsav Satane 👋</h1>
 
 <p align="center">
-  <b>Final-Year B.Tech CSE Student | Full Stack Developer | ML/DL Enthusiast</b>
+  <b>Final-Year B.Tech CSE Student | Software Engineer in the Making</b>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 ### 🚀 About Me
 
 - 🎓 Final-year B.Tech CSE student at Sreyas Institute of Engineering and Technology, Hyderabad (CGPA: 8.51/10.0)
-- 💻 Skilled in the **MERN stack**, **Machine Learning / Deep Learning**, and **Competitive Programming**
-- 🧠 Currently building a **multiplayer typing racing game** with real-time gameplay using Socket.io
-- 📈 5-Star (Gold) rated in Python on HackerRank
-- 🌱 Actively exploring deployable, production-ready projects to strengthen my portfolio for placements
-- 🌐 Quadrilingual, with a passion for open-source contribution and lifelong learning
+- 💡 Strong foundation in Python, Object-Oriented Programming, Data Structures & Algorithms, SQL, and Web Development
+- 🏆 5-Star (Gold) rated in Python on HackerRank through competitive problem-solving
+- 🧩 Participated in Coda-thon 2025 (College Level Coding Competition)
+- 🌐 Quadrilingual, with strong leadership and team collaboration skills
+- 🌱 Eager to join innovative teams through internships or part-time roles in software development — passionate about contributing to open-source projects
 
 ---
 
@@ -35,42 +35,49 @@
 **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Backend & Database**
+**Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**ML / DL**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
-### 🔭 Featured Projects
+### 🔭 Projects
 
-- **[Employee Leave Management System (ELMS)](#)** — MERN stack app with GitHub-based CI, MongoDB Atlas, Express backend on Render, and a Vite/React frontend on Vercel. Deployed with a live demo.
-- **[Multiplayer Typing Race Game](#)** — Real-time TypeRacer-inspired game built with React/Vite, Node.js + Socket.io, and MongoDB Atlas.
-- **[TruthLens](#)** — Deepfake detection system using an ensemble CNN architecture (VGG19, InceptionV3, Xception, EfficientNetB0, ResNet50, MobileNetV3Large) with a three-stage detection pipeline and REST API.
-- **[Handwritten Text Recognition (HTR)](#)** — CNN-BiLSTM-CTC model built with TensorFlow/Keras and PaddleOCR, served via FastAPI with a Next.js/TypeScript frontend, trained on the IAM dataset.
-- **[Face Recognition Attendance App](#)** — Real-time attendance system using OpenCV Haar Cascade classifiers with automated CSV/Excel logging.
-- **[Random Password Generator](#)** — Security-focused password generator built with Python's `secrets` module and a Tkinter GUI.
+- **[Face Recognition Based Attendance App](#)** — `OpenCV` `NumPy` `Pandas`
+  Automated attendance system using OpenCV and Haar Cascade classifiers for real-time face detection and recognition, with a logging pipeline that cross-references detected faces against a local database, timestamps attendance, and exports records to CSV/Excel. Includes image pre-processing (grayscale conversion, scaling) for improved accuracy across lighting conditions.
+
+- **[Random Password Generator](#)** — `Python` `Tkinter` `Secrets Module`
+  Security-focused password generator using Python's `secrets` module for cryptographically strong, randomized passwords, with a custom Tkinter GUI allowing users to toggle length, special characters, and numerical constraints.
 
 ---
 
+### 📜 Certifications
+
+- Python Basic Skill Certification — HackerRank
+- Generative AI Literacy — Future Skills Prime
+- Data Analytics Job Simulation — Deloitte
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  💬 Open to internships & full-time SDE roles | Let's connect!
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  💬 Open to internships & entry-level software development roles | Let's connect!
 </p>

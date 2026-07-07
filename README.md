@@ -59,6 +59,10 @@
 - **[Random Password Generator](#)** — `Python` `Tkinter` `Secrets Module`
   Security-focused password generator using Python's `secrets` module for cryptographically strong, randomized passwords, with a custom Tkinter GUI allowing users to toggle length, special characters, and numerical constraints.
 
+- **[Employee Leave Management System](#)** — `Java` `Swing` `OOP` `CSV`
+
+  A Java Swing-based desktop application for managing employee leave requests with secure role-based authentication for employees and administrators. Supports leave application, approval/rejection workflows, attendance management, leave history tracking, CSV-based persistence, and report exporting through a clean, intuitive interface designed with object-oriented architecture.
+
 ---
 
 ### 📜 Certifications

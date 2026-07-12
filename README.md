@@ -57,7 +57,7 @@
   Automated attendance system using OpenCV and Haar Cascade classifiers for real-time face detection and recognition, with a logging pipeline that cross-references detected faces against a local database, timestamps attendance, and exports records to CSV/Excel. Includes image pre-processing (grayscale conversion, scaling) for improved accuracy across lighting conditions.
 
 - **[Random Password Generator](#)** — `Python` `Tkinter` `Secrets Module`
-  Security-focused password generator using Python's `secrets` module for cryptographically strong, randomized passwords, with a custom Tkinter GUI allowing users to toggle length, special characters, and numerical constraints.
+  Security-focused password generator using Python's `secrets` module for cryptographically strong, randomized passwords, with a custom Tkinter GUI allowing users to toggle length, special characters, and numerical constraints which is used to generate the strong passwords randomly.
 
 - **[Employee Leave Management System](#)** — `SQL` `Express.js` `React` `Node.js` `JWT`
 

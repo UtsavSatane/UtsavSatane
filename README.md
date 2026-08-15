@@ -53,8 +53,13 @@
 
 ### 🔭 Projects
 
-- **[Face Recognition Based Attendance App](#)** — `OpenCV` `NumPy` `Pandas`
-  Automated attendance system using OpenCV and Haar Cascade classifiers for real-time face detection and recognition, with a logging pipeline that cross-references detected faces against a local database, timestamps attendance, and exports records to CSV/Excel. Includes image pre-processing (grayscale conversion, scaling) for improved accuracy across lighting conditions.
+- **[VeriFace - Face Recognition Based Attendance App ](#)** — `OpenCV` `NumPy` `Pandas`
+• Architected a Flask-based automated attendance platform using InsightFace embeddings, achieving above 98 percent
+accuracy in real-time facial verification.
+• Implemented anti-spoofing mechanisms including blink detection, head-turn verification, duplicate attendance
+prevention, and role-based authentication for students and administrators.
+• Built a responsive web application with SQLite-backed attendance management, automated CSV report generation,
+and dedicated student/admin dashboards.
 
 - **[Random Password Generator](#)** — `Python` `Tkinter` `Secrets Module`
   Security-focused password generator using Python's `secrets` module for cryptographically strong, randomized passwords, with a custom Tkinter GUI allowing users to toggle length, special characters, and numerical constraints which is used to generate the strong passwords randomly.

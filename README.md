@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 Final-year B.Tech CSE student at Sreyas Institute of Engineering and Technology, Hyderabad (CGPA: 8.49/10.0)
-- 💡 Strong foundation in Python, Object-Oriented Programming, Data Structures & Algorithms, SQL, and Web Development
+- 💡 Strong foundation in Python,Java, Object-Oriented Programming, Data Structures & Algorithms, SQL, and Web Development
 - 🏆 5-Star (Gold) rated in Python on HackerRank through competitive problem-solving
 - 🧩 Participated in Coda-thon 2025 (College Level Coding Competition)
 - 🌐 Quadrilingual, with strong leadership and team collaboration skills

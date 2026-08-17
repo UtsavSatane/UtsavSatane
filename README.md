@@ -61,8 +61,13 @@ prevention, and role-based authentication for students and administrators.
 • Built a responsive web application with SQLite-backed attendance management, automated CSV report generation,
 and dedicated student/admin dashboards.
 
-- **[Random Password Generator](#)** — `Python` `Tkinter` `Secrets Module`
-  Security-focused password generator using Python's `secrets` module for cryptographically strong, randomized passwords, with a custom Tkinter GUI allowing users to toggle length, special characters, and numerical constraints which is used to generate the strong passwords randomly.
+- **[Centralized SSO Identity Provider(ODIC)](#)** — `Node.js` `Express.js` `ODIC Provider`,`PostgreSQL`
+• Programmed during a one-month industry project at Bharat Dynamics Limited (BDL), implementing an OpenID
+Connect (OIDC) Identity Provider for secure Single Sign-On across multiple applications.
+• Implemented HTTPS/TLS, JWT token management, PostgreSQL-backed user management, Redis session caching,
+and rate limiting following OIDC standards.
+• Developed audit logging and an Admin Security Dashboard to monitor authentication events, token issuance, and
+failed login attempts.
 
 - **[Employee Leave Management System](#)** — `SQL` `Express.js` `React` `Node.js` `JWT`
 
